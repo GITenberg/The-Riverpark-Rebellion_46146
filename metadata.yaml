@@ -1,0 +1,29 @@
+_repo: The-Riverpark-Rebellion_46146
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46146-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Greene, Homer
+    birthdate: 1853
+    deathdate: 1940
+    gutenberg_agent_id: '3540'
+    url: http://www.gutenberg.org/2009/agents/3540
+description: ''
+gutenberg_issued: '2014-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Military education -- Juvenile fiction'
+- !lcsh 'Young men -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Military cadets -- Juvenile fiction'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Riverpark Rebellion
+url: http://www.gutenberg.org/ebooks/46146
